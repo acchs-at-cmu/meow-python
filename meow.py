@@ -2,7 +2,7 @@ import time
 
 def main():
     while True:
-        print("Meow!")
+        print('Meow!')
         time.sleep(0.1)
 
 
