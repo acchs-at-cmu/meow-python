@@ -3,7 +3,7 @@ import time
 def main():
     while True:
         print("Meow!")
-        time.sleep(1)
+        time.sleep(0.5)
 
 
 if __name__ == "__main__":
